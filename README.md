@@ -4,5 +4,6 @@
 ### Google colab notebook link:
 https://colab.research.google.com/github/Patcharinee/AI_Interior_design/blob/main/AI_Interior_design.ipynb
 
-<img width="1536" height="704" alt="AI_interior_design_example" src="https://github.com/user-attachments/assets/dffc4dfd-989d-4540-8f47-fb5f0bd6b4ea" />
+<img width="1536" height="704" alt="AI_interior_design_example" src="https://github.com/user-attachments/assets/3b3ee95b-fe98-48ca-9ba5-1098f3a09026" />
+
 
